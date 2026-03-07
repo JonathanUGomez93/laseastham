@@ -1,9 +1,16 @@
-//import { Routes, Route } from "react-router"
+import Navbar from './Navbar'
 import '../css/header.css'
 
 const Header=()=>{
     return(
-        <h1>Hola</h1>
+    <>
+        <div className='nav'>
+            <div className='logo'>
+                <img src="/images/logo.png" alt=""/>
+            </div>
+        </div>
+        <Navbar/>
+    </>
     )
 }
 export default Header
