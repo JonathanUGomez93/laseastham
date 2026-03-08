@@ -7,10 +7,6 @@ import '../css/app.css'
 
 function App() {
   return (
-    // <CustomProvider>
-    //   <BrowserRouter>
-    //   </BrowserRouter>
-    // </CustomProvider>
     <BrowserRouter>
       <Header/>
       <Main/>

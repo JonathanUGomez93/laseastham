@@ -1,0 +1,10 @@
+.routes{
+    display: flex;
+    flex-direction: column;
+}
+.routes a{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    margin-block: 1rem;
+}

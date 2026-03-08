@@ -1,6 +1,8 @@
 const Main =()=>{
     return(
-        <h2>hola desde el main</h2>
+    <>
+    <h2>hola desde el main</h2>
+    </>
     )
 }
 
