@@ -1,7 +1,16 @@
+import '../css/main.css'
 const Main =()=>{
     return(
     <>
-    <h2>hola desde el main</h2>
+    <div className="members">
+        <p>Alayna</p>
+        <p>Bruna</p>
+        <p>Joline</p>
+        <p>Aitana</p>
+        <p>Haruko</p>
+        <p>Giovanna</p>
+        <p>Evangelina</p>
+    </div>
     </>
     )
 }

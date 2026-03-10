@@ -1,0 +1,10 @@
+.members{
+    height: 100vh;
+    width: 90%;
+    margin: auto;
+}
+.members p {
+    margin: 0;
+    padding: 0;
+    font-size: 5rem;
+}
