@@ -2,9 +2,13 @@
     height: 100vh;
     width: 90%;
     margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
-.members p {
-    margin: 0;
-    padding: 0;
+.members a {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
     font-size: 5rem;
 }

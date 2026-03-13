@@ -2,10 +2,11 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    margin: 1rem 0;
+    margin: 1rem;
     position: fixed;
     top: 0;
-    width: 90%;
+    right: 0;
+    width: 50%;
     background-color: transparent;
     z-index: 1000;
 }

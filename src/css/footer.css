@@ -2,7 +2,19 @@
 footer{
     color: #0D0D0D;
     background-color: #F5F5F5;
+    padding: 4rem;
+    display: flex;
+    flex-direction: row;
 }
-.test{
-    text-align: center;
+.socials{
+    width: 70%;
+}
+.socials a{
+    all: unset;
+    cursor: pointer;
+    margin-right: 2rem;
+}
+.rights{
+    width: 30%;
+    text-align: end;
 }

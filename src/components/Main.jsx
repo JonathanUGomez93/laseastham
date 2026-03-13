@@ -1,15 +1,16 @@
+import { Link } from "react-router"
 import '../css/main.css'
 const Main =()=>{
     return(
     <>
     <div className="members">
-        <p>Alayna</p>
-        <p>Bruna</p>
-        <p>Joline</p>
-        <p>Aitana</p>
-        <p>Haruko</p>
-        <p>Giovanna</p>
-        <p>Evangelina</p>
+        <Link to='/alayna'>ALAYNA</Link>
+        <Link to='/bruna'>BRUNA</Link>
+        <Link to='/joline'>JOLINE</Link>
+        <Link to='/aitana'>AITANA</Link>
+        <Link to='/haruko'>HARUKO</Link>
+        <Link to='/giovanna'>GIOVANNA</Link>
+        <Link to='/evangelina'>EVANGELINA</Link>
     </div>
     </>
     )
