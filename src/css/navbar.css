@@ -1,6 +1,7 @@
 .routes{
     display: flex;
     flex-direction: column;
+    font-family: "Poiret One", sans-serif;
 }
 .routes a{
     text-decoration: none;

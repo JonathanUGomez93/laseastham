@@ -5,6 +5,7 @@ footer{
     padding: 4rem;
     display: flex;
     flex-direction: row;
+    font-family: "Poiret One", sans-serif;
 }
 .socials{
     width: 70%;
